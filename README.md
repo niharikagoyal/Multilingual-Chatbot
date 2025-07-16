@@ -73,7 +73,9 @@ This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgments
 Google Translate
+
 Streamlit
+
 gTTS
 
 
