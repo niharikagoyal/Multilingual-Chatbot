@@ -38,7 +38,7 @@ An intelligent chatbot that translates English text into multiple languages like
 
 ## 📦 Installation
 
-git clone https://github.com/yourusername/multilingual-chatbot.git
+git clone https://github.com/niharikagoyal/Multilingual-Chatbot.git
 
 cd multilingual-chatbot
 
@@ -48,7 +48,8 @@ streamlit run app.py
 
 ## 📂 Project Structure
 
-multilingual-chatbot/
+multilingual-chatbot
+/
 │
 ├── app.py                 
 ├── translator.py          
