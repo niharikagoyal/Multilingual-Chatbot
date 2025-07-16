@@ -1,0 +1,6 @@
+googletrans==4.0.0rc1
+gtts
+playsound==1.2.2
+streamlit
+speechrecognition
+pyaudio
