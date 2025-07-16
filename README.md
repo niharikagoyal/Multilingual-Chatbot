@@ -13,12 +13,13 @@ An intelligent chatbot that translates English text into multiple languages like
 
 ## 🚀 Features
 
-✅ Translate English to:
+ ✅ Translate English to:
 - Hindi (`hi`)
 - Punjabi (`pa`)
 - French (`fr`)
 - Spanish (`es`)
-- German (`de`)  
+- German (`de`)
+  
 ✅ Hear the translated output via text-to-speech  
 ✅ Fast, simple, and clean interface  
 ✅ Easily extendable to new languages or speech input
@@ -38,8 +39,11 @@ An intelligent chatbot that translates English text into multiple languages like
 ## 📦 Installation
 
 git clone https://github.com/yourusername/multilingual-chatbot.git
+
 cd multilingual-chatbot
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## 📂 Project Structure
